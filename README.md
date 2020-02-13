@@ -1,18 +1,11 @@
 ## https://github.com/githubckgoh1439/truchain
 
-![logo](./logo.jpg)
-
-[![CircleCI](https://circleci.com/gh/TruStory/truchain.svg?style=svg&circle-token=0cea219dcac9bd6962a057d85c4a319613c6680e)](https://circleci.com/gh/TruStory/truchain)
-[![codecov](https://codecov.io/gh/TruStory/truchain/branch/master/graph/badge.svg?token=jh3muAAEBs)](https://codecov.io/gh/TruStory/truchain)
-[![Go Report Card](https://goreportcard.com/badge/github.com/trustory/truchain)](https://goreportcard.com/report/github.com/trustory/truchain)
-[![](https://tokei.rs/b1/github/XAMPPRocky/tokei)](https://github.com/TruStory/truchain)
-[![API Reference](https://godoc.org/github.com/TruStory/truchain/types?status.svg)](https://godoc.org/github.com/TruStory/truchain/types)
 
 TruChain is the application-specific blockchain that powers [beta.trustory.io](https://beta.trustory.io/).
 
 Check out an [overview of the architecture](https://blog.cosmos.network/building-a-decentralized-app-with-cosmos-sdk-3c535cdc6a6a).
 
-**🚀🚀🚀 Join the testnet at [https://github.com/TruStory/testnets](https://github.com/TruStory/testnets).**
+** Join the testnet at [https://github.com/TruStory/testnets](https://github.com/TruStory/testnets).**
 
 ## Installation
 
